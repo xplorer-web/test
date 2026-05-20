@@ -1,0 +1,16 @@
+Logo orange to blue
+Three colors throughout the UI White, Blue, Black
+Selected Text in Change number must be Bold
+List View 
+Charts should occupy max place
+When we minimise the Navigator all the 100% space must be occupied by the Charts Information
+Icons for Charts must be slightly decreased 
+Time based shade should be given to Change Analyst 
+Change Analyst and Time font can be decreased slightly
+'i' Icon can be move to a bit left side
+Average Time to Complete font can be reduced
+Number in Normal Font and days in Italic
+Change Numbers font can be decreased or we can give spacing for each Change number (Low Priority)
+Priority, Reason code, status can be move to right side and width can be increased 
+Remove borders from List View details (Completed)
+Labels for List View details font size increase by 1 (Completed)

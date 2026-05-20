@@ -1,0 +1,33 @@
+Requirements for charts:
+
+1) Java FX Scattered Chart > Google it- Scattered Diagram using Java FX 
+   In Scattered Diagram there must be 3 Parameters X Axis , Y axis and Chart Type
+   If we give X and Y Axis values Scattered diagram should be displayed
+
+2) Three Dimensions which we have to make in any report in PLM Routing 
+
+   1) Change Analyst
+   2) Actual Time taken 
+   3) Change Order Type
+
+1) Change Analyst Reports
+
+-> Based on Change Analyst how many Change Orders were passed
+-> Based on Change Analyst what is Overall & Individual Average Time taken to Complete the Change Order
+-> Total number of Changes done
+
+2) Change Order Reports 
+
+-> How many Changes has a Change Analyst processed for a given Change Order
+
+Usecase 1 : Draw a Chart between Change Orders to Change Analyst 
+Usecase 2 : Draw a Chart between Change Analyst to Change Orders 
+Usecase 3 : Draw a Chart between Time to Complete to Change Order Type 
+Usecase 4 : Draw a Chart between Change Order Type to Time to Complete
+ 
+
+
+
+
+
+
